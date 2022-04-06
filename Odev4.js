@@ -1,5 +1,5 @@
 // PatikaDev Node.JS Modülü Ödev 4
-// Daire Modülü
+// FS Modülü Çalışması
 
 const fs = require("fs");
 
